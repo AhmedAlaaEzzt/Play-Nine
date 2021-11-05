@@ -1,3 +1,8 @@
+# How to play the game
+
+![2](https://user-images.githubusercontent.com/34984172/140474277-a6ac2aa2-da53-433f-b1ae-ddbcd8a5ead3.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
