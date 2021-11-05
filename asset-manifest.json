@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/play-nine/static/css/main.c6dfcd0f.chunk.css",
+    "main.js": "/play-nine/static/js/main.9d01daa7.chunk.js",
+    "main.js.map": "/play-nine/static/js/main.9d01daa7.chunk.js.map",
+    "runtime-main.js": "/play-nine/static/js/runtime-main.367b6934.js",
+    "runtime-main.js.map": "/play-nine/static/js/runtime-main.367b6934.js.map",
+    "static/css/2.baea4f29.chunk.css": "/play-nine/static/css/2.baea4f29.chunk.css",
+    "static/js/2.368956b5.chunk.js": "/play-nine/static/js/2.368956b5.chunk.js",
+    "static/js/2.368956b5.chunk.js.map": "/play-nine/static/js/2.368956b5.chunk.js.map",
+    "static/js/3.cf52c35f.chunk.js": "/play-nine/static/js/3.cf52c35f.chunk.js",
+    "static/js/3.cf52c35f.chunk.js.map": "/play-nine/static/js/3.cf52c35f.chunk.js.map",
+    "index.html": "/play-nine/index.html",
+    "static/css/2.baea4f29.chunk.css.map": "/play-nine/static/css/2.baea4f29.chunk.css.map",
+    "static/css/main.c6dfcd0f.chunk.css.map": "/play-nine/static/css/main.c6dfcd0f.chunk.css.map",
+    "static/js/2.368956b5.chunk.js.LICENSE.txt": "/play-nine/static/js/2.368956b5.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/play-nine/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.367b6934.js",
+    "static/css/2.baea4f29.chunk.css",
+    "static/js/2.368956b5.chunk.js",
+    "static/css/main.c6dfcd0f.chunk.css",
+    "static/js/main.9d01daa7.chunk.js"
+  ]
+}
